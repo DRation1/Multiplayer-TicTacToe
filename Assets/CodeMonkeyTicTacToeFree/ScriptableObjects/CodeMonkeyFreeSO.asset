@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.00
+  subtype: tictactoengofree
+  lastShownTimestamp: 1764497753
+  lastUpdateResponse:
+    version: 1.00
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1764497753
+  lastQOTDResponse:
+    questionId: 246
+    questionText: 'When would this code cause an error?
+
+      <p>Building closest
+      = null;</p>
+
+      <p>for (int i = 0; i &lt; instanceList.Count; i++) {</p>
+
+      <p>&nbsp;
+      &nbsp; if (Vector3.Distance(position, instanceList[i].GetPosition()) &lt; Vector3.Distance(position,
+      closest.GetPosition())) {</p>
+
+      <p>&nbsp; &nbsp; &nbsp; &nbsp; closest
+      = instanceList[i];</p>
+
+      <p>&nbsp; &nbsp; }</p>
+
+      <p>}</p>
+
+      <p>return
+      closest;</p>'
+    answerA: When instanceList is empty
+    answerB: When instanceList has at least one element
+    answerC: When instanceList has exactly two elements
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1764497753
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cmBlackFriday2025.png
+    topText: Get my BLACK FRIDAY Bundle! Available now with Live Chat!
+    topLink: blackfriday
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1764497753
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
+      Click here!</a>
+  websiteLatestMessageTimestamp: 1764497753
+  websiteLatestVideos:
+    videos:
+    - youTubeId: uYkVz724eng
+      title: TOP 10 NEW Tools AND Visuals NOVEMBER 2025!
+    - youTubeId: UzddfPG2zr4
+      title: The FUTURE of Unity! (and Unity 7 is DEAD!)
+    - youTubeId: Z_R-gcTuMrI
+      title: TOP 10 NEW Games, Made with Unity! (OCTOBER 2025)
+    - youTubeId: yC6IGLB4ySg
+      title: Make Games FASTER (90% Compilation Speed BOOST!)
+  websiteLatestVideosTimestamp: 1764497753
