@@ -4,7 +4,7 @@
 
 ### 📄 Project Overview (프로젝트 개요)
 
-이 프로젝트는 Unity의 최신 네트워킹 스택인 **Netcode for GameObjects(NGO)**를 사용하여 구현된 2인용 보드게임입니다. Host-Client 구조를 통해 두 명의 플레이어가 실시간으로 접속하여 턴제(Turn-based) 게임을 즐길 수 있습니다. 서버 권한(Server Authoritative) 로직을 통해 게임의 상태를 동기화하고, 승패 판정 및 점수 시스템을 관리합니다.
+이 프로젝트는 Unity의 최신 네트워킹 스택인 Netcode for GameObjects(NGO)를 사용하여 구현된 2인용 보드게임입니다. Host-Client 구조를 통해 두 명의 플레이어가 실시간으로 접속하여 턴제(Turn-based) 게임을 즐길 수 있습니다. 서버 권한(Server Authoritative) 로직을 통해 게임의 상태를 동기화하고, 승패 판정 및 점수 시스템을 관리합니다.
 
 * **개발 기간**: 2024.12 ~ 2025.02
 * **개발 인원**: 1명 (개인 프로젝트)
