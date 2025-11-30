@@ -6,7 +6,7 @@
 
 이 프로젝트는 Unity의 최신 네트워킹 스택인 **Netcode for GameObjects(NGO)**를 사용하여 구현된 2인용 보드게임입니다. Host-Client 구조를 통해 두 명의 플레이어가 실시간으로 접속하여 턴제(Turn-based) 게임을 즐길 수 있습니다. 서버 권한(Server Authoritative) 로직을 통해 게임의 상태를 동기화하고, 승패 판정 및 점수 시스템을 관리합니다.
 
-* **개발 기간**: 2024.11 ~ 2024.11 (예시: 실제 기간으로 수정)
+* **개발 기간**: 2024.12 ~ 2025.02
 * **개발 인원**: 1명 (개인 프로젝트)
 * **주요 기능**: 실시간 매칭(Host/Client), 턴 동기화, 승리 라인 시각화, 점수 기록, 재경기 기능
 
@@ -14,7 +14,7 @@
 
 | Category | Stack |
 | :--- | :--- |
-| **Engine** | Unity 6 (or 사용하신 버전) |
+| **Engine** | Unity 6 (6000.1.12f1) |
 | **Language** | C# |
 | **Network** | Unity Netcode for GameObjects (NGO) |
 | **UI** | TextMeshPro (UGUI) |
