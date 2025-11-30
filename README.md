@@ -56,5 +56,3 @@
 * `NetworkManagerUI.cs`: Host/Client 시작 버튼 등 네트워크 연결 진입점 처리.
 * `SoundManager.cs`: 게임 상황(착수, 승리, 패배)에 따른 효과음 재생.
 
----
-*Developed by [본인 이름/ID]*
